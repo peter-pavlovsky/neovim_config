@@ -1,5 +1,5 @@
 
-_Easy to use, easy to modify neovim distribution_
+Easy to use, easy to modify neovim distribution
 
 ---
 
