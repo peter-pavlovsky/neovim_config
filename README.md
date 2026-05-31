@@ -1,10 +1,6 @@
+Swap escape function to `capslock` 🗿
 
-Easy to use, easy to modify neovim distribution
 
-### Features:
-- feature1
-- f2
-- f3
 
 ---
 <br>
