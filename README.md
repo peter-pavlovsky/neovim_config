@@ -8,11 +8,13 @@ date: 2026-05-31
 simple neovim config with custom binds and functions
 
 ### Installation
+1. Backup your current neovim config
+2. Clone the repo
 <details>
   <summary>Linux</summary>
   
   ```
-  mv ~/.config/nvim ~/.config/nvim_backup && git clone https://github.com/peter-pavlovsky/neovim_config.git && mkdir -p ~/.config/nvim && ~/.config/nvim
+  mv ~/.config/nvim ~/.config/nvim_backup && mkdir -p ~/.config/nvim && git clone https://github.com/peter-pavlovsky/neovim_config.git ~/.config/nvim
   ```
 
 </details>
