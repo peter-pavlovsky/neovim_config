@@ -10,5 +10,7 @@ simple neovim config with custom binds and functions
 ### Installation
 <details>
   <summary>Linux</summary>
-  printf(mv ~/.config/nvim ~/.config/nvim_backup && git clone https://github.com/peter-pavlovsky/neovim_config.git)
+  ````
+  mv ~/.config/nvim ~/.config/nvim_backup && git clone https://github.com/peter-pavlovsky/neovim_config.git
+  ````
 </details>
