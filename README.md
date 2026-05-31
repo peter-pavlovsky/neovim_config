@@ -1,7 +1,5 @@
 ---
-title: "Neovim distro README"
-author: "Peter Pavlovsky"
-date: 2026-05-31
+|: "Neovim distro"
 ---
 
 # neovim_config
