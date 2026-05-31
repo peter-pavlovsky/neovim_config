@@ -1,5 +1,6 @@
 ---
-|: "Neovim distro"
+title: "Neovim distro"  
+
 ---
 
 # neovim_config
