@@ -12,7 +12,7 @@ simple neovim config with custom binds and functions
   <summary>Linux</summary>
   
   ```
-  mv ~/.config/nvim ~/.config/nvim_backup && git clone https://github.com/peter-pavlovsky/neovim_config.git
+  mv ~/.config/nvim ~/.config/nvim_backup && git clone https://github.com/peter-pavlovsky/neovim_config.git ~/.config/nvim
   ```
 
 </details>
