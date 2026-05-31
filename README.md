@@ -9,7 +9,7 @@ simple neovim config with custom binds and functions
 
 <h2>Installation</h2>
 1. Backup your current neovim config<br>
-2. Clone the repo<br>
+2. Clone the repo<br><br>
 
 <details>
   <summary>Linux</summary>
