@@ -1,11 +1,6 @@
 ---
-"pls gimme star"  
-
+"Easy to use, easy to modify"
 ---
-
-# neovim_config
-Easy to use, easy to modify neovim distribution.
-<h2>Installation</h2>
 
 <details>
 <summary> Linux </summary>
