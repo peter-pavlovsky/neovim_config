@@ -1,6 +1,11 @@
 
 Easy to use, easy to modify neovim distribution
 
+*Features:*
+- feature1
+- f2
+- f3
+
 ---
 
 <h2>Installation</h2>
