@@ -1,5 +1,9 @@
 <h2>Installation</h2>
-_Backs up your current neovim config and clones the repo._ <br><br>
+
+<l>Backs up current configuration</l>
+<l>Clones the repo</l>
+<l>Removes LICENSE, .git etc</l>
+
 <details>
 <summary> Linux </summary>
 
