@@ -1,30 +1,9 @@
---print("********************************")
---print("*                              *")
---print("*                              *")
---print("*                              *")
---print("*              |||             *")
---print("*              |||             *")
---print("*            =======           *")
---print("*              xxx  ;          *")
---print("*              xxx x           *")
---print("*               x x            *")
---print("*              xxx             *")
---print("*             x x              *")
---print("*             x x              *")
---print("*              x x             *")
---print("*             x   x            *")
---print("*                              *")
---print("*                              *")
---print("*                              *")
---print("********************************")
-
 -- Keep `options` module at the top
---    `options`   - some vim options
---    `lazy`      - lazy setup, all plugin files are called from here
 require('config.options')
+-- Keybinds
 require('config.keymaps')
+-- Plugin manager
 require('config.lazy')
 
+-- Highlight on copying text
 require('autocommands.highlightonyank')
-
-
