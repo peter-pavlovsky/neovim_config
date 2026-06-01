@@ -4,8 +4,7 @@
 2. Clones the repo
 3. Removes `.git` `LICENSE` and `README.md` files
 
-### TODO
-- [ ] Fix the script
+
 <details>
 <summary> Linux </summary>
 
@@ -14,3 +13,7 @@
   ```
 
 </details>
+
+
+__TODO__
+- [ ] Fix the script
