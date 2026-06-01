@@ -1,5 +1,5 @@
 ## Installation
-
+==Currently only works with no `nvim_backup` already on the system==
 1. Backs up current configuration
 2. Clones the repo
 3. Removes `.git` `LICENSE` and `README.md` files
