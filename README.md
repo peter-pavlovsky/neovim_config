@@ -1,7 +1,8 @@
 ## Installation
 
-1. Clones the repo
-2. Removes `.git` `LICENSE` and `README.md` files
+1. Backs up your current config
+2. Clones the repo
+3. Removes `.git` `LICENSE` and `README.md` files
 
 <details>
 <summary> Linux </summary>
