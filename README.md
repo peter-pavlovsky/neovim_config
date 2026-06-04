@@ -12,6 +12,8 @@ ___
 2. Clones the repo
 3. Removes `.git` `LICENSE` and `README.md` files
 
+---
+
 <details>
 <summary> Linux </summary>
 
@@ -30,5 +32,3 @@ mv "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim2 "${XDG_CONFIG_HOME:-$HOME/.config}"
 ```
 
 </details>
-
----
