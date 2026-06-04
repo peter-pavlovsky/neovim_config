@@ -9,7 +9,7 @@ Currently only works with no `nvim_backup` dir already on the system and `nvim` 
 <summary> Linux </summary>
 
   ```
-  mv ~/.config/nvim ~/.config/nvim_backup && mkdir -p ~/.config/nvim && git clone https://github.com/peter-pavlovsky/neovim_config.git ~/.config/nvim && rm ~/.config/nvim/LICENSE ~/.config/nvim/README.md && mv ~/.config/nvim/nvim/* ~/.config/nvim/ && rm -rdf ~/.config/nvim/nvim ~/.config/nvim/.git
+git clone https://github.com/peter-pavlovsky/neovim_config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim && rm -rdf "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim/.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim/README.md "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim/LICENSE
   ```
 
 </details>
