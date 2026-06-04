@@ -1,6 +1,6 @@
 ## About
-<p>A basic neovim configuration with some QoL plugins</p>
-<p>Made to use with Tmux although that's optional ig...</p>
+A basic neovim configuration with some QoL plugins<br>
+Made to use with Tmux although that's optional ig...
 
 ___
 
