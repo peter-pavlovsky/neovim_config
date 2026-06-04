@@ -15,7 +15,7 @@ Made to use with Tmux although that's optional ig, but like ...use Tmux
 ---
 
 <details>
-<summary> Linux </summary>
+<summary> <b>Linux</b> </summary>
 
   ```
 echo("Backing up you current neovim config...") &&
